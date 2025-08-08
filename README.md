@@ -42,7 +42,7 @@ This extension offers:
 
 ## 📦 Installation
 
-1. [Download the latest `.zip` release](#) from the Releases section.
+1. [Download the latest `.zip` release](https://github.com/Arslan-Ahmad-12/Whatsapp-Privacy-Extension/releases/tag/v1.0.0) from the Releases section.
 2. Extract the contents to a folder.
 3. Open Chrome and navigate to `chrome://extensions/`.
 4. Enable **Developer Mode** (top right).
