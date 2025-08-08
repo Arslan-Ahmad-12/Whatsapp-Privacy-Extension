@@ -35,6 +35,7 @@ This extension offers:
 - ✅ **Open-source code**: Fully inspectable and transparent.
 - ✅ **No tracking or analytics**.
 - ✅ **Focused on user privacy** — no logins, no cloud sync, no risk.
+- ✅ **And its totally free.
 
 > **Protect your messages, chats, and media from prying eyes.**
 
